@@ -26,6 +26,7 @@ baseurl: "/dh-learning" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pbinkley
 mastodon_username: code4lib.social/@pbinkley
+logo: /assets/images/icons8-book-100.png
 
 author:
   name: Peter Binkley
@@ -35,6 +36,7 @@ author:
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

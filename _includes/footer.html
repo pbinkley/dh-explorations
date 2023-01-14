@@ -1,0 +1,13 @@
+<footer id="footer" class="site-footer">
+  <div class="inner">
+    <div class="copyright">
+      {% if site.copyright %}
+        {{ site.copyright | markdownify }}
+      {% else %}
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}; <a href="https://github.com/pbinkley/dh-learning/blob/main/LICENSE">MIT License</a><br/> The bookshelf logo is from <a href="https://icons8.com">icons8</a>, used under their "Free for a link" license.
+
+        </p>
+      {% endif %}
+    </div>
+  </div>
+</footer>
