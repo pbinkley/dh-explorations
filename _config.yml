@@ -23,7 +23,7 @@ email: peter.binkley@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about things I'm learning in pursuit of the digital humanities
 baseurl: "/dh-learning" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pbinkley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pbinkley
 mastodon_username: code4lib.social/@pbinkley
 logo: /assets/images/icons8-book-100.png
