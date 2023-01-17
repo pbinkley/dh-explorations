@@ -1,0 +1,5 @@
+- basic form an annotation
+- could this be automated? - yes - python script
+- first: identify the locations of the tags
+- second: extract the text and ocr it
+- third: put it all together in a Mirador instance
