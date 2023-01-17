@@ -30,7 +30,7 @@ logo: /assets/images/icons8-book-100.png
 
 author:
   name: Peter Binkley
-  picture: /assets/images/pbinkley.png
+  picture: /assets/images/pbinkley.jpg
 
 # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
